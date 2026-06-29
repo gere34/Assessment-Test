@@ -1,0 +1,19 @@
+employee_id,employee_name,department,date,hours_worked
+1,John Smith,Engineering,2026-06-01,8
+1,John Smith,Engineering,2026-06-02,9
+1,John Smith,Engineering,2026-06-03,13
+2,Mary Johnson,Finance,2026-06-01,7
+2,Mary Johnson,Finance,2026-06-02,7.5
+2,Mary Johnson,Finance,2026-06-03,6
+3,Alice Wong,Engineering,2026-06-01,10
+3,Alice Wong,Engineering,2026-06-02,14
+3,Alice Wong,Engineering,2026-06-03,9
+4,Bob Martinez,HR,2026-06-01,8
+4,Bob Martinez,HR,2026-06-02,8
+4,Bob Martinez,HR,2026-06-03,8
+5,Carol Davis,Finance,2026-06-01,9
+5,Carol Davis,Finance,2026-06-02,8
+5,Carol Davis,Finance,2026-06-03,7
+6,David Kim,Engineering,2026-06-01,11
+6,David Kim,Engineering,2026-06-02,12.5
+6,David Kim,Engineering,2026-06-03,8
